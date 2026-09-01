@@ -1,0 +1,36 @@
+{
+  "expo": {
+    "name": "APP_LAB_UFOP",
+    "slug": "APP_LAB_UFOP",
+    "scheme": "ufoplab",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "entryPoint": "./App.js",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "newArchEnabled": true,
+      "googleServicesFile": "./googleService-Info.plist",
+      "supportsTablet": true
+    },
+    "android": {
+      "newArchEnabled": true,
+      "googleServicesFile": "google-services.json",
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "plugins": [
+      "expo-router"
+    ]
+  }
+}

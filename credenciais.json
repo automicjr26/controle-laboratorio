@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "app-lab-ufop-438817",
+  "private_key_id": "1231ee6298eb8c519ae98b6af0d36ca2772280a7",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCrYMCdCTfye7Vx\n8shVoSr6nPGg1Rukn2gENt+C5bDfjKKm5/T2kUMl1/3RApgKdApUhtcq2/N1TRiM\nBRSu0U8HRMh4XwQ20h0VpdL5YUQuMfqU6cvIePiuGY5rkHIxieEAcJQTwh8Vv0Wx\nqlUseSzxUW/Zg7vLmpuB0MSGl5WoqLcvYS+LvbApNv6GJOlsf944GnuywFxnm9+s\n36wjQGKGJtl332O87lxvdXn8XlEKH3UUspq2zmg5I0ggkhqSfYZxccMJKSJVSsWL\n80J63+McriIqVB6Resv/IFTcCN+gXUlwm6dEsvpcpxoNxuBAg6VRfKzRPC9Firl8\nCV+dkuOlAgMBAAECggEABqTmbGNb5+q9fho+tt/1hDUEqSRmwSfs86NGk9/HAhbr\nUQBtK6IC5TsafAZXUd06ouXkMaUu9/ByCZVCcZ44kiLFVhiMJHpaf+knfl0zzeN7\nwFcDSSJngb7VgElGJBi6wGmc7acsM77WoayyekCFNyKquddOaimN6qdNXZ2pQucE\nEyw1W2GlkRCYKGvITmMmjiKeBWkVfqVKY5XXFrX6oLzQwr9R+zVH2CL8XHyMBBN3\nVNtcy9zuaj7hMJeLJsXuj1xh1fcL+iIUjv779OGu11fQ8yUmcVCQYqy+KyhagGE1\nkByh7vOERJozCOKGy5zZEYBQEq9WHfH0JM8CrEm4AQKBgQDnzX+XGFJc31RzPCm3\nrLaevgzuI3r2gsuEoAqO1JCc9c5y1GHKLcnf7zIw//awYPYFkmeSKid7RNTOYieq\npiZstINJAJGat33B9WzRIZXRtN77wHjICxxq7x2mu2SDk8SFCOr0TqmCdT3hfTRB\n6jm7jiRFvucv2J80NXkkc6KnsQKBgQC9RIM8Ho/8SPEXRwE/O7ri0C6BJM1TtFTt\nLbIvY0tdZBGj8S9rrqcUnsTEM+4vwG2bKgBjY16iuEl0UOGEFS2dt/XFkLmCqUf8\ntXFZbDo3gji2ZbIR1+EcD6esXT6M0llMAo1Zc42oanea6feRTi8A0jLX8DcX4XeP\n4QGdAf/sNQKBgGcA+AtqMV83lk1GlLsbsmLDzPcdKQzVfh5HB6oEZuZ4i+6W1YWD\n50rs/X6snzAtReWf8woOVVD/exjioQHBpx1y8UvFRu5bTzSbHGmp5Os01klEc+dg\nmJYj/ycR6k5VoWQEXHOHaOehtYe3nTsVG+Zt+UxM0mp+dfA7OsOp5sNhAoGAN9Rx\n8dYCGyVZGMi1MXXpFubaEPZOKxbSxnPoT9o2bQILwhRvLJCEcKy01juLU0KsEk09\neBPj4pQB9vG01EV7Az80nGaokkZlGcJcAUjPk3gySnuNH35SxPhJOar3vIqAFM/b\n6jsP2lItneDOSmqJqvBWVyRg3AaCQkrZMvtYBtECgYEAkM/x55lhCzEhMZFN2iLl\nBa47riWTAeE2EIUnlKsFONCGHsjl4JOaG9mk21qiCDmVvCg55M8M+4IiXPaTgYHL\nKudEX4umzkGJqfpg5+DpZ50BwXRGNpfrE3oWRj3tqJHZ5KfhtJ/jV/yRbFAHMMtm\nuVk12IO4WKVHV7tWHE1vPV0=\n-----END PRIVATE KEY-----\n",
+  "client_email": "gerenciador-lab@app-lab-ufop-438817.iam.gserviceaccount.com",
+  "client_id": "104990530404553916476",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/gerenciador-lab%40app-lab-ufop-438817.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
